@@ -5,6 +5,11 @@
 	* Se modifica la función de Viterbi para que devuelva el etiquetado morfosintáctico sólo con el camino óptimo.
 	* Se intoducen cambios para una mejor comprensión del código.
 	* Añadida mas estructura al documento.
+
+2020-04-26 Jorge Valenzuela <jorge.valenzuela81@outlook.com>
+	* Se realizan cambios cosméticos en algunas frases y se corrigen errores gramaticales
+	* Se añade la funcion plotChain 
+	* Se añade código para pintar la matriz de transiciones.
 	
 	
 

@@ -1,0 +1,27 @@
+digraph  {
+NP00000;
+VSIP3S0;
+Fp;
+SPS00;
+VMIP3S0;
+Fc;
+Fpa;
+Fpt;
+VMIC1S0;
+CC;
+PP3CSD00;
+VAII1S0;
+Fe;
+NP00000 -> VSIP3S0  [key=0, label="0.03125", weight="0.03125"];
+NP00000 -> Fp  [key=0, label="0.125", weight="0.125"];
+NP00000 -> SPS00  [key=0, label="0.09375", weight="0.09375"];
+NP00000 -> VMIP3S0  [key=0, label="0.21875", weight="0.21875"];
+NP00000 -> Fc  [key=0, label="0.1875", weight="0.1875"];
+NP00000 -> Fpa  [key=0, label="0.0625", weight="0.0625"];
+NP00000 -> Fpt  [key=0, label="0.09375", weight="0.09375"];
+NP00000 -> VMIC1S0  [key=0, label="0.03125", weight="0.03125"];
+NP00000 -> CC  [key=0, label="0.0625", weight="0.0625"];
+NP00000 -> PP3CSD00  [key=0, label="0.03125", weight="0.03125"];
+NP00000 -> VAII1S0  [key=0, label="0.03125", weight="0.03125"];
+NP00000 -> Fe  [key=0, label="0.03125", weight="0.03125"];
+}
