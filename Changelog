@@ -1,0 +1,8 @@
+2020-04-26  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
+
+	* Se modifica la función de Viterbi para que devuelva el etiquetado morfosintáctico sólo con el camino óptimo.
+	* Se intoducen cambios para una mejor comprensión del código.
+	* Añadida mas estructura al documento.
+	
+	
+
