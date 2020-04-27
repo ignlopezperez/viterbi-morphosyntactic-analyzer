@@ -1,15 +1,19 @@
-2020-04-26  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
+2020-04-27  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
 
-	* Se añade información sobre la estructura de los diccionarios utilizados.
-
-	* Se modifica la función de Viterbi para que devuelva el etiquetado morfosintáctico sólo con el camino óptimo.
-	* Se intoducen cambios para una mejor comprensión del código.
-	* Añadida mas estructura al documento.
+	* Reorganización y pequeños cambios.
 
 2020-04-26 Jorge Valenzuela <jorge.valenzuela81@outlook.com>
 	* Se realizan cambios cosméticos en algunas frases y se corrigen errores gramaticales
 	* Se añade la funcion plotChain 
 	* Se añade código para pintar la matriz de transiciones.
+
+2020-04-26  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
+
+	* Se añade información sobre la estructura de los diccionarios utilizados.
+	* Se modifica la función de Viterbi para que devuelva el etiquetado morfosintáctico sólo con el camino óptimo.
+	* Se intoducen cambios para una mejor comprensión del código.
+	* Añadida mas estructura al documento.
+
 	
 	
 
