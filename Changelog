@@ -1,3 +1,7 @@
+2020-05-01  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
+
+	* Añadido en markdown también el disclaimer del fallo en windows.
+
 2020-05-01  Marcos Garcia Padron <mgpadron@gmail.com>
  * incluido comentario de bug de pydot en SO Windows tras no
    encontrar workaround para los usaurios de este SO al hacer
