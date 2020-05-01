@@ -1,3 +1,9 @@
+2020-05-01  Marcos Garcia Padron <mgpadron@gmail.com>
+ * incluido comentario de bug de pydot en SO Windows tras no
+   encontrar workaround para los usaurios de este SO al hacer
+	 uso de una funcion auziliar para representar las matrices en pydot.
+ * Corregida alguna errata encontrada en el texto.
+
 2020-05-01  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
 
 	* Reorganización y limpieza de código.
@@ -8,7 +14,7 @@
 
 2020-04-26 Jorge Valenzuela <jorge.valenzuela81@outlook.com>
 	* Se realizan cambios cosméticos en algunas frases y se corrigen errores gramaticales
-	* Se añade la funcion plotChain 
+	* Se añade la funcion plotChain
 	* Se añade código para pintar la matriz de transiciones.
 
 2020-04-26  Jose Angel de Bustos Perez  <jadebustos@gmail.com>
@@ -17,7 +23,3 @@
 	* Se modifica la función de Viterbi para que devuelva el etiquetado morfosintáctico sólo con el camino óptimo.
 	* Se intoducen cambios para una mejor comprensión del código.
 	* Añadida mas estructura al documento.
-
-	
-	
-
